@@ -1,0 +1,30 @@
+861482060634092 | ovotuyul917@gmail.com | GAGAL: Tidak ada info hadiah ditemukan
+861482060635248 | ovotuyul917@gmail.com | ERROR: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.96)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C3885355+78597]
+	GetHandleVerifier [0x00007FF6C38853B0+78688]
+	(No symbol) [0x00007FF6C36391AA]
+	(No symbol) [0x00007FF6C3624EF5]
+	(No symbol) [0x00007FF6C3649F04]
+	(No symbol) [0x00007FF6C36BED0F]
+	(No symbol) [0x00007FF6C36DEBB2]
+	(No symbol) [0x00007FF6C36B6EC3]
+	(No symbol) [0x00007FF6C36803F8]
+	(No symbol) [0x00007FF6C3681163]
+	GetHandleVerifier [0x00007FF6C3B2EF0D+2870973]
+	GetHandleVerifier [0x00007FF6C3B296B8+2848360]
+	GetHandleVerifier [0x00007FF6C3B46993+2967875]
+	GetHandleVerifier [0x00007FF6C38A019A+188746]
+	GetHandleVerifier [0x00007FF6C38A847F+222255]
+	GetHandleVerifier [0x00007FF6C388D2D4+111236]
+	GetHandleVerifier [0x00007FF6C388D482+111666]
+	GetHandleVerifier [0x00007FF6C38735A9+5465]
+	BaseThreadInitThunk [0x00007FFA98F6E8D7+23]
+	RtlUserThreadStart [0x00007FFA9937BF6C+44]
+
+861482060601455 | ovotuyul917@gmail.com | GAGAL: Tidak ada info hadiah ditemukan
+861482060674882 | ovotuyul917@gmail.com | ERROR: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+861482060693841 | ovotuyul917@gmail.com | ERROR: 'NoneType' object has no attribute 'strip'
+861482060641634 | ovotuyul917@gmail.com | ERROR: 'NoneType' object has no attribute 'strip'
