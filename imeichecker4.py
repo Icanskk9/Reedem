@@ -5,8 +5,8 @@ import time
 import os
 
 # 🔐 Ganti dengan akun kamu
-EMAIL = "tufgaminga438@gmail.com"
-PASSWORD = "Html909090@"
+EMAIL = "uremail"
+PASSWORD = "upassword"
 
 # Pastikan folder logs tersedia
 if not os.path.exists("logs"):
